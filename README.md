@@ -1,6 +1,6 @@
 # validatedapp
 
-Flutter Application for cheecking news
+Flutter Application for checking news
 
 ## Getting Started
 
